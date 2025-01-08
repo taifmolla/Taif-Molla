@@ -1,0 +1,12 @@
+{
+    "redirects": [
+        {
+            "path": "/old-page",
+            "url": "https://example.com/new-page"
+        },
+        {
+            "path": "/another-old-page",
+            "url": "https://example.com/another-new-page"
+        }
+    ]
+}
